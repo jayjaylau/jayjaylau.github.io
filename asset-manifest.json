@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.43b15af4.chunk.css",
-    "main.js": "/static/js/main.eb514fa0.chunk.js",
-    "main.js.map": "/static/js/main.eb514fa0.chunk.js.map",
+    "main.css": "/static/css/main.257c7975.chunk.css",
+    "main.js": "/static/js/main.c53eddac.chunk.js",
+    "main.js.map": "/static/js/main.c53eddac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa400f2b.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa400f2b.js.map",
     "static/js/2.abdf1b41.chunk.js": "/static/js/2.abdf1b41.chunk.js",
     "static/js/2.abdf1b41.chunk.js.map": "/static/js/2.abdf1b41.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.43b15af4.chunk.css.map": "/static/css/main.43b15af4.chunk.css.map",
+    "static/css/main.257c7975.chunk.css.map": "/static/css/main.257c7975.chunk.css.map",
     "static/js/2.abdf1b41.chunk.js.LICENSE.txt": "/static/js/2.abdf1b41.chunk.js.LICENSE.txt",
     "static/media/Game_Play_Music_1.00eb4a73.ogg": "/static/media/Game_Play_Music_1.00eb4a73.ogg",
     "static/media/Launch_Button_1.e78ada12.ogg": "/static/media/Launch_Button_1.e78ada12.ogg",
@@ -20,10 +20,13 @@
     "static/media/UI_Instruction_BG.49c50664.png": "/static/media/UI_Instruction_BG.49c50664.png",
     "static/media/UI_Launch_Inactive.f1000456.png": "/static/media/UI_Launch_Inactive.f1000456.png",
     "static/media/UI_Loading.1c95f9ff.png": "/static/media/UI_Loading.1c95f9ff.png",
+    "static/media/UI_LoadingScreen_Logo.a217b110.png": "/static/media/UI_LoadingScreen_Logo.a217b110.png",
+    "static/media/UI_Loading_Icon.810780f0.png": "/static/media/UI_Loading_Icon.810780f0.png",
     "static/media/UI_Metter_Container.7e84b92e.png": "/static/media/UI_Metter_Container.7e84b92e.png",
     "static/media/UI_PlayAgain_Active.8ecaadcf.png": "/static/media/UI_PlayAgain_Active.8ecaadcf.png",
     "static/media/UI_PlayAgain_Inactive.a3a73649.png": "/static/media/UI_PlayAgain_Inactive.a3a73649.png",
     "static/media/UI_RapidFire_Graphic.808ab6cd.png": "/static/media/UI_RapidFire_Graphic.808ab6cd.png",
+    "static/media/UI_Ready_Inactive.e8df25c7.png": "/static/media/UI_Ready_Inactive.e8df25c7.png",
     "static/media/UI_Results_BG.c987aa66.png": "/static/media/UI_Results_BG.c987aa66.png",
     "static/media/UI_Score.296aeb23.png": "/static/media/UI_Score.296aeb23.png",
     "static/media/UI_Score_Graphic.f40fb469.png": "/static/media/UI_Score_Graphic.f40fb469.png",
@@ -33,7 +36,7 @@
     "static/media/bgScroll.9c308435.jpg": "/static/media/bgScroll.9c308435.jpg",
     "static/media/bgStadium.642d7881.jpg": "/static/media/bgStadium.642d7881.jpg",
     "static/media/char_blockL.7e0fc539.png": "/static/media/char_blockL.7e0fc539.png",
-    "static/media/char_blockR.04afed8a.png": "/static/media/char_blockR.04afed8a.png",
+    "static/media/char_blockR.9248819e.png": "/static/media/char_blockR.9248819e.png",
     "static/media/char_idle.dab3eee1.png": "/static/media/char_idle.dab3eee1.png",
     "static/media/fgScroll.f3750a5f.png": "/static/media/fgScroll.f3750a5f.png",
     "static/media/splash_02_mavsman.f425a374.png": "/static/media/splash_02_mavsman.f425a374.png",
@@ -42,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa400f2b.js",
     "static/js/2.abdf1b41.chunk.js",
-    "static/css/main.43b15af4.chunk.css",
-    "static/js/main.eb514fa0.chunk.js"
+    "static/css/main.257c7975.chunk.css",
+    "static/js/main.c53eddac.chunk.js"
   ]
 }
