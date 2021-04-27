@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5bbc2643.chunk.css",
-    "main.js": "/static/js/main.203c752a.chunk.js",
-    "main.js.map": "/static/js/main.203c752a.chunk.js.map",
+    "main.js": "/static/js/main.724a30e3.chunk.js",
+    "main.js.map": "/static/js/main.724a30e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4608d587.js",
     "runtime-main.js.map": "/static/js/runtime-main.4608d587.js.map",
     "static/js/2.d1966ae8.chunk.js": "/static/js/2.d1966ae8.chunk.js",
@@ -43,7 +43,7 @@
     "static/media/UI_TakeSelfie_Active.66690985.png": "/static/media/UI_TakeSelfie_Active.66690985.png",
     "static/media/UI_Thanks.1a3af457.png": "/static/media/UI_Thanks.1a3af457.png",
     "static/media/UI_UTSouthwestern_Logo.884ec87e.png": "/static/media/UI_UTSouthwestern_Logo.884ec87e.png",
-    "static/media/bgStadium.a2af273b.jpg": "/static/media/bgStadium.a2af273b.jpg",
+    "static/media/bgStadium.ee80323a.jpg": "/static/media/bgStadium.ee80323a.jpg",
     "static/media/char_blockL.7e0fc539.png": "/static/media/char_blockL.7e0fc539.png",
     "static/media/char_blockR.9248819e.png": "/static/media/char_blockR.9248819e.png",
     "static/media/char_idle.dab3eee1.png": "/static/media/char_idle.dab3eee1.png",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.4608d587.js",
     "static/js/2.d1966ae8.chunk.js",
     "static/css/main.5bbc2643.chunk.css",
-    "static/js/main.203c752a.chunk.js"
+    "static/js/main.724a30e3.chunk.js"
   ]
 }
